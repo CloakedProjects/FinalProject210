@@ -1,2 +1,1 @@
-[Final Report (PDF)](Final Project Writeup (1).pdf)
-
+[Final Project Writeup (PDF)](./Final%20Project%20Writeup%20(1).pdf)
